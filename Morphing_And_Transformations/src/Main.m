@@ -1,6 +1,4 @@
-%% Submitters:
-%%   Itay Guy,I.D. - 305104184
-%%   Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
 %% Keep attention - we were write notes and answers as print to the console!!!
 
 img1 = imread('Face1.tif');

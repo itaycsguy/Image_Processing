@@ -1,7 +1,6 @@
 %Main Script
-%Submitters:
-% Itay Guy,I.D- 305104184  
-% Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
+
 function peaks = circle_houghpeaks(h, radii, varargin)
 %CIRCLE_HOUGHPEAKS finds peaks in the output of CIRCLE_HOUGH
 %   PEAKS = CIRCLE_HOUGHPEAKS(H, RADII, MARGIN, OPTIONS) locates the

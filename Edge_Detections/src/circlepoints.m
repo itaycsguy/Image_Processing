@@ -1,7 +1,6 @@
 %Main Script
-%Submitters:
-% Itay Guy,I.D- 305104184  
-% Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
+
 function [x, y] = circlepoints(r)
 %CIRCLEPOINTS  Returns integer points close to a circle
 %   [X, Y] = CIRCLEPOINTS(R) where R is a scalar returns coordinates of

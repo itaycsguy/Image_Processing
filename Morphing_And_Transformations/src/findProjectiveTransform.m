@@ -1,7 +1,5 @@
 function T = findProjectiveTransform(pointsSet1,pointsSet2)
-    %% Submitters:
-    %%   Itay Guy,I.D. - 305104184
-    %%   Judit Riss,I.D. - 302925474
+	%Developer: Itay Guy
     %% inputs: set of point of im1 and set of point of im2
     %% outputs: T - Projective transformation from pointSet1 to pointSet2
    s = size(pointsSet1); %size(pointsSet1) == size(pointsSet2)

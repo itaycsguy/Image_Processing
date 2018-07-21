@@ -1,7 +1,6 @@
 %Main Script
-%Submitters:
-% Itay Guy,I.D- 305104184  
-% Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
+
 function markHoughLines(image,edges,lines,numLines,thresh,fillGap,minLength)
     [H,theta,rho] = hough(edges);
     peaks = houghpeaks(H,numLines,'threshold',ceil(thresh*max(H(:))));

@@ -1,7 +1,5 @@
 function newIm = mapImage(im,T,sizeOutIm)
-    %% Submitters:
-    %%   Itay Guy,I.D. - 305104184
-    %%   Judit Riss,I.D. - 302925474
+	%Developer: Itay Guy
     %% inputs: im - image to map,T - transformation [affine or projective],sizeOutIm - size of the destination image
     %% outputs: new mapped image
     r = sizeOutIm(1); % x axis

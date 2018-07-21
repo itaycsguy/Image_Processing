@@ -1,7 +1,6 @@
 %Main Script
-%Submitters:
-% Itay Guy,I.D- 305104184  
-% Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
+
 function [h, margin] = circle_hough(b, rrange, varargin)
 %CIRCLE_HOUGH Hough transform for circles
 %   [H, MARGIN] = CIRCLE_HOUGH(B, RADII) takes a binary 2-D image B and a

@@ -1,7 +1,5 @@
 function [imagePts1,imagePts2] = getImagePts(im1,im2)
-    %% Submitters:
-    %%   Itay Guy,I.D. - 305104184
-    %%   Judit Riss,I.D. - 302925474
+	%Developer: Itay Guy
     %% inputs: im1,im2 - two image to pick corresponding pairs of points from them
     %% outputs: [imagePts1,imagePts2] - two set of corresponded points
     %initialize 2 arrays

@@ -1,7 +1,5 @@
 function T = findAffineTransform(pointsSet1,pointsSet2)
-    %% Submitters:
-    %%   Itay Guy,I.D. - 305104184
-    %%   Judit Riss,I.D. - 302925474
+	%Developer: Itay Guy
     %% input: pointsSet1 - set of points from image A,pointsSet2 - set of points from image B
     % each two points are selected corresponding using image A and image B in the same time
     %% output: T =  affine transformation to these set of points

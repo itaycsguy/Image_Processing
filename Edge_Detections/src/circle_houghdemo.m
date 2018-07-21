@@ -1,11 +1,8 @@
 %Main Script
-%Submitters:
-% Itay Guy,I.D- 305104184  
-% Judit Riss,I.D. - 302925474
+%Developer: Itay Guy
+
 %% Circular Hough Transform Demonstration
-%
-% David Young
-%
+
 % Demonstrates the use of |circle_hough| and |circle_houghpeaks| to find
 % circular objects in an image.
 %
